@@ -1,46 +1,52 @@
 ## FORMAT: <channel name> - <Country>
 
 東森新聞 - Taiwan
-https://www.youtube.com/watch?v=R2iMq5LKXco
+https://www.youtube.com/watch?v=V1p33hqPrUk&ab_channel=%E6%9D%B1%E6%A3%AE%E6%96%B0%E8%81%9ECH51
 
 東森財經 - Taiwan
-https://www.youtube.com/watch?v=ABn_ccXn_jc
+https://www.youtube.com/watch?v=1I2iq41Akmo&ab_channel=57%E6%9D%B1%E6%A3%AE%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E
 
 TVBS新聞 - Taiwan
-https://www.youtube.com/watch?v=2mCSYvcfhtc
+https://www.youtube.com/watch?v=m_dhMSvUCIc&ab_channel=TVBSNEWS
 
 台視新聞 - Taiwan
-https://www.youtube.com/watch?v=xL0ch83RAK8
+https://www.youtube.com/watch?v=xL0ch83RAK8&ab_channel=%E5%8F%B0%E8%A6%96%E6%96%B0%E8%81%9ETTVNEWS
 
 民視新聞 - Taiwan
-https://www.youtube.com/watch?v=XGEmg3vhrzU
+https://www.youtube.com/watch?v=ylYJSBUgaMA&ab_channel=%E6%B0%91%E8%A6%96%E6%96%B0%E8%81%9E%E7%B6%B2FormosaTVNewsnetwork
 
 華視新聞 - Taiwan
-https://www.youtube.com/watch?v=yUTy1U1wTwE
+https://www.youtube.com/watch?v=wM0g8EoUZ_E&ab_channel=%E8%8F%AF%E8%A6%96%E6%96%B0%E8%81%9ECH52
 
 ABC News (US) - US
-https://www.youtube.com/watch?v=w_Ma8oQLmSM
+https://www.youtube.com/watch?v=iipR5yUp36o&ab_channel=ABCNews
 
 CNA - Singapore
-https://www.youtube.com/watch?v=XWq5kBlakcQ
+https://www.youtube.com/watch?v=XWq5kBlakcQ&ab_channel=CNA
 
 DW - Germany
-https://www.youtube.com/watch?v=V9KZGs1MtP4
+https://www.youtube.com/watch?v=LuKwFajn37U&ab_channel=DWNews
 
 Al Jazeera English - Qatar
-https://www.youtube.com/watch?v=-upyPouRrB8
+https://www.youtube.com/watch?v=gCNeDWCI0vo&ab_channel=AlJazeeraEnglish
 
 Astro AWANI - Malaysia
-https://www.youtube.com/watch?v=zLu0wfp6bgw
+https://www.youtube.com/watch?v=mkVyNaGee8A&ab_channel=AstroAWANI
 
 France 24 English - France
-https://www.youtube.com/watch?v=jNhh-OLzWlE
+https://www.youtube.com/watch?v=Ap-UM1O9RBU&ab_channel=FRANCE24English
 
 RT - Russia
-https://www.youtube.com/watch?v=V0I5eglJMRI
+https://www.youtube.com/watch?v=4y5EqOyNww4&ab_channel=Reuters
 
-Test Fail Link - FBK
-https://www.youtube.com/watch?v=aaa
+鳳凰衛視資訊台 - Hong Kong
+https://www.youtube.com/watch?v=BLaQVW5oUGU&ab_channel=%E9%B3%B3%E5%87%B0%E8%A1%9B%E8%A6%96PhoenixTV
+
+CGTN Europe - China
+https://www.youtube.com/watch?v=_6dRRfnYJws&ab_channel=CGTNEurope
+
+CCTV中文国际 - China
+https://www.youtube.com/watch?v=SdzewdkJa-o&ab_channel=LIVENOW
 
 
 
